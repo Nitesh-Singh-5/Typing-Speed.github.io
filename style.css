@@ -21,6 +21,7 @@
 }
 h1 {
   text-transform: capitalize;
+  margin-top: 20px;
   margin-bottom: 30px;
   color: #ecf0f1;
   text-shadow: 1px 2px 3px #2980b9;
@@ -56,13 +57,19 @@ textarea {
   box-shadow: 5px 4px 2px 0;
   border: none;
 }
-@media (max-width: 411px) {
+.green-text {
+  color: green;
+  text-shadow: 3px 4px 1px 0;
+}
+.danger {
+  color: red;
+  background-color: grey;
+}
+@media (max-width: 500px) {
   .main {
-    height: auto;
-    width: auto;
+    display: grid;
   }
   .center {
-    width: auto;
-    color: white;
+    display: grid;
   }
 }
