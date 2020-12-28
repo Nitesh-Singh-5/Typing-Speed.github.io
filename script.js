@@ -51,7 +51,7 @@ const comparewords=(str1,str2)=>{
             }
     })
     let errorWords = (words1.length - cnt);
-    return (cnt + " correct out of "+ words1.length +" words and the total number of error are "+ errorWords + ".");
+    return (cnt + ` correct out of ${words1.length} words and the total number of error are ${errorWords} .`);
 }
 
 const wordCounter=(Str)=>{
