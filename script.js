@@ -61,7 +61,7 @@ const wordCounter=(Str)=>{
 }
 
 btn.addEventListener('click',function(){
-    console.log(this)
+//     console.log(this)
     if(this.innerText == 'Start'){
         typedWords.disabled = false;
         playGames();
