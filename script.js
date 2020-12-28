@@ -10,7 +10,7 @@ const setOfWords =[
     "Xavier Puvre counted eighty large boxes and sixteen small boxes stacked outside.",
     "The Reckson family decided to go to an amusement park on Wednesday.",
     "That herd of bison seems to be moving quickly; does that seem normal to you?",
-]
+]dd
 
 const msg = document.getElementById('msg');
 const typedWords = document.getElementById('myWords');
