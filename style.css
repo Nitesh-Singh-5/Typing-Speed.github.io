@@ -56,3 +56,13 @@ textarea {
   box-shadow: 5px 4px 2px 0;
   border: none;
 }
+@media (max-width: 411px) {
+  .main {
+    height: auto;
+    width: auto;
+  }
+  .center {
+    width: auto;
+    color: white;
+  }
+}
