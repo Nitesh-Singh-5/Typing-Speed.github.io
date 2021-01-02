@@ -4,12 +4,7 @@ const setOfWords =[
     "Rex Quinfrey, a renowned scientist, created plans for an invisibility machine.",
     "Do you know why all those chemicals are so hazardous to the environment?",
     "Max Joykner sneakily drove his car around every corner looking for his dog.",
-    "The two boys collected twigs outside, for over an hour, in the freezing cold!",
-    "Trixie and Veronica, our two cats, just love to play with their pink ball of yarn.",
-    "I have three things to do today: wash my car, call my mother, and feed my dog.",
-    "Xavier Puvre counted eighty large boxes and sixteen small boxes stacked outside.",
-    "The Reckson family decided to go to an amusement park on Wednesday.",
-    "That herd of bison seems to be moving quickly; does that seem normal to you?",
+    
 ]
 
 const msg = document.getElementById('msg');
