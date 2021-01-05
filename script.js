@@ -10,6 +10,13 @@ const setOfWords =[
     "Xavier Puvre counted eighty large boxes and sixteen small boxes stacked outside.",
     "The Reckson family decided to go to an amusement park on Wednesday.",
     "That herd of bison seems to be moving quickly; does that seem normal to you?",
+    "You can lead a horse to water but you can't make him drink.",
+    "What sorts of search phrases do you think they will be typing in on Google?",
+    "He whipped out his phone and trotted down the stairs, typing a response to one of the many texts he'd received.",
+    "The whole purpose of a site for generating HTML code is to save you the trouble of typing it in yourself.",
+    "You can change value by either clicking the up/down arrows or typing into the text box - both methods are shown in the movie.",
+    "The position will involve audio typing legal documents and letters for the Commercial Property department, using digital dictation.",
+    "The thing I miss is the number keypad, I find typing numbers in using the numbers at the top extremely cumbersome!",
 ]
 
 const msg = document.getElementById('msg');
